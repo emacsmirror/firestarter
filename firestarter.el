@@ -1,9 +1,9 @@
 ;;; firestarter.el --- Execute (shell) commands on save
 
-;; Copyright (C) 2015 Vasilij Schneidermann <v.schneidermann@gmail.com>
+;; Copyright (C) 2015 Vasilij Schneidermann <mail@vasilij.de>
 
-;; Author: Vasilij Schneidermann <v.schneidermann@gmail.com>
-;; URL: https://github.com/wasamasa/firestarter
+;; Author: Vasilij Schneidermann <mail@vasilij.de>
+;; URL: https://depp.brause.cc/firestarter
 ;; Version: 0.2.5
 ;; Keywords: convenience
 
@@ -28,8 +28,7 @@
 
 ;; This global minor mode allows you to run (shell) commands on save.
 
-;; See the README for more info:
-;; https://github.com/wasamasa/firestarter
+;; See the README for more info: https://depp.brause.cc/firestarter
 
 ;;; Code:
 

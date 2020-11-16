@@ -11,8 +11,8 @@ states.
 
 ## Installation
 
-Install from [Marmalade] or [MELPA (Stable)] with
-`M-x package-install RET firestarter RET`.
+Install from [MELPA (Stable)] with `M-x package-install RET
+firestarter RET`.
 
 ## Usage
 
@@ -168,7 +168,6 @@ convinced me:
   with this mode, perhaps it's got ideas worth stealing.
 
 [image]: img/firestarter.gif
-[Marmalade]: https://marmalade-repo.org/
 [MELPA (Stable)]: http://melpa.org/
 [hookify]: https://github.com/Silex/hookify
 [auto-shell-command]: https://github.com/ongaeshi/auto-shell-command

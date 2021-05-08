@@ -5,6 +5,7 @@
 ;; Author: Vasilij Schneidermann <mail@vasilij.de>
 ;; URL: https://depp.brause.cc/firestarter
 ;; Version: 0.2.5
+;; Package-Requires: ((emacs "24.1"))
 ;; Keywords: convenience
 
 ;; This file is NOT part of GNU Emacs.
